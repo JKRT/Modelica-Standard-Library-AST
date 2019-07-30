@@ -1,5 +1,7 @@
 module Modelica-Standard-Library-AST
 
-greet() = print("Hello World!")
+include("std.jl")
+
+MODELICA_STL_AST::Program = PROGRAM
 
 end # module

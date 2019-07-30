@@ -2,3 +2,7 @@ name = "Modelica-Standard-Library-AST"
 uuid = "ec323fdc-b2ae-11e9-1997-d34542aea204"
 authors = ["johti <johti17@liu.se>"]
 version = "0.1.0"
+
+[deps]
+Absyn = "ce2f92e2-a952-11e9-0543-8b443f216f1d"
+MetaModelica = "9d7f2a79-07b5-5542-8b19-c0100dda6b06"
