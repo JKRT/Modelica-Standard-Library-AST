@@ -1,4 +1,4 @@
-module Modelica-Standard-Library-AST
+module Modelica_Standard_Library_AST
 
 include("std.jl")
 
