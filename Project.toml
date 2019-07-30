@@ -1,0 +1,4 @@
+name = "Modelica-Standard-Library-AST"
+uuid = "ec323fdc-b2ae-11e9-1997-d34542aea204"
+authors = ["johti <johti17@liu.se>"]
+version = "0.1.0"
